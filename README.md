@@ -1,13 +1,13 @@
 ## Hi there, I'm Cuong_Nguyen - nqcuong20 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/nqcuong20/">
-  <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"  />
+  <img align="left" alt="Facebook" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"  />
 </a>
 
 <a href="https://www.instagram.com/mystogancn/">
-  <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"  />
+  <img align="left" alt="Instagram" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"  />
 </a>
 <a href="https://www.instagram.com/mystogancn/">
-  <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-mail-240.png"  />
+  <img align="left" alt="Email" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-mail-240.png"  />
 </a>
 
 
@@ -40,10 +40,9 @@ Hi, I'm Cuong Nguyen, a passionate self-taught Web Developer from VietNam.
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-html-5.svg" alt="React" height="70" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-html-5.svg" alt="HTML" height="70" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-css3.svg" alt="CSS3" height="70" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-bootstrap.svg" alt="Bootstrap" height="70" />
-
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="70" />
 </div></td><td valign="top" width="33%">
 
@@ -52,15 +51,16 @@ Hi, I'm Cuong Nguyen, a passionate self-taught Web Developer from VietNam.
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="70" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-microsoft-sql-server.svg" alt="MS SQL" height="70" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="70" />
+    <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/sql.svg" alt="My SQL" height="70" />
 </div></td><td valign="top" width="33%">
 
 ### Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-gitlab.svg" alt="GitLab" height="70" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-git.svg" alt="GitLab" height="70" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-git.svg" alt="Git" height="70" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/github.svg" alt="Adobe Photoshop" height="70" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-visual-studio.svg" alt="GitLab" height="70" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-visual-studio-code-2019.svg" alt="GitLab" height="70" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-visual-studio.svg" alt="VS" height="70" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-visual-studio-code-2019.svg" alt=VSC" height="70" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Adobe Photoshop" height="70" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-illustrator.svg" alt="Adobe Illustrator" height="70" />
 </div></td></tr></table>  
@@ -75,6 +75,6 @@ Hi, I'm Cuong Nguyen, a passionate self-taught Web Developer from VietNam.
 
 </a>
 <a href="">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="React" height="70" /> 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="70" /> 
 </a>
 
