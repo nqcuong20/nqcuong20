@@ -1,5 +1,4 @@
-<div align="center"> 
-## Hi there, I'm Cuong_Nguyen - nqcuong20 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+<h1 align="center"> Hi there, I'm Cuong_Nguyen - nqcuong20 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><h1>
 <a href="https://www.facebook.com/nqcuong20/">
   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"  />
 </a>
