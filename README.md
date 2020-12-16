@@ -38,7 +38,7 @@
 
 Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/octo.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/octo.gif"  height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -50,11 +50,13 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 ### Music 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-**Currently working with:**
+
 
 **Learning:**
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-angularjs.svg" alt="React" height="70" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="React" height="70" /> 
+
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="70" />
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -65,8 +67,6 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-bootstrap.svg" alt="Bootstrap" height="70" />
 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="70" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Adobe Photoshop" height="70" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-illustrator.svg" alt="Adobe Illustrator" height="70" />
 </div></td><td valign="top" width="33%">
 
 ### Backend  
@@ -80,12 +80,13 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-gitlab.svg" alt="GitLab" height="70" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-git.svg" alt="GitLab" height="70" />
+   />
+  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/github.svg" alt="Adobe Photoshop" height="70" />
     <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-visual-studio.svg" alt="GitLab" height="70" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-visual-studio-code-2019.svg" alt="GitLab" height="70" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Adobe Photoshop" height="70" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-illustrator.svg" alt="Adobe Illustrator" height="70" />
-  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/github.svg" alt="Adobe Photoshop" height="70" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-illustrator.svg" alt="Adobe Illustrator" height="70"
 </div></td></tr></table>  
 
 <br/>  
