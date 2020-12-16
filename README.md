@@ -88,12 +88,11 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-angularjs.svg" alt="React" height="70" />  
 </a>
 
-<a href="https://www.instagram.com/mystogancn/">
-  <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"  />
+<a href="">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="70" />
+
 </a>
-<a href="https://www.instagram.com/mystogancn/">
-  <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-mail-240.png"  />
+<a href="">
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="React" height="70" /> 
 </a>
 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="React" height="70" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="70" />
