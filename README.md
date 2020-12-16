@@ -6,6 +6,9 @@
 <a href="https://www.instagram.com/mystogancn/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"  height="50" />
 </a>
+<a href="https://www.instagram.com/mystogancn/">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-mail-240.png"  height="50" />
+</a>
 
 
 <br />
