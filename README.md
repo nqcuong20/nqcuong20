@@ -51,11 +51,6 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
-
-**Learning:**
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-angularjs.svg" alt="React" height="70" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="React" height="70" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="70" />
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -89,3 +84,8 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 </div></td></tr></table>  
 
 <br/>  
+
+## Learning
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-angularjs.svg" alt="React" height="70" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="React" height="70" /> 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="70" />
