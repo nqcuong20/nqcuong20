@@ -1,7 +1,9 @@
-### Hi there, I'm Cuong_Nguyen - nqcuong20 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Cuong_Nguyen - nqcuong20 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
-
-## I'm a Web Developer !
+<code> <a href="https://www.facebook.com/nqcuong20/"> <img height="20" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"></a></code>
+<code> <a href="https://www.instagram.com/mystogancn/"> <img height="20" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"></a></code>
+<code><img height="20" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"></code>
+### I'm a Web Developer !
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
