@@ -1,4 +1,4 @@
-## Hi there, I'm Cuong_Nguyen - nqcuong20 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Cuong_Nguyen - nqcuong20 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 <a href="https://www.facebook.com/nqcuong20/">
   <img align="left" alt="Facebook" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"  />
 </a>
@@ -9,28 +9,18 @@
 <a href="https://www.instagram.com/mystogancn/">
   <img align="left" alt="Email" width="40px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-mail-240.png"  />
 </a>
-
-
 <br />
 
-### I'm a Web Developer !
-<br />
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-Hi, I'm Cuong Nguyen, a passionate self-taught Web Developer from VietNam.
+### Hi, I'm a Web Developer from VietNam!
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/octo.gif"  height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 🌱 I’m currently learning .NET, Javascript, Angular; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📫 How to reach me: [@nqcuong](https://www.facebook.com/nqcuong20);
 ### Music 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
