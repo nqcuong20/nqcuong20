@@ -59,12 +59,12 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-html-5.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-css3.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-bootstrap.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-html-5.svg" alt="React" height="70" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-css3.svg" alt="CSS3" height="70" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-bootstrap.svg" alt="Bootstrap" height="70" />
 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Javascript" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="70" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Javascript" height="70" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 </div></td><td valign="top" width="33%">
 
