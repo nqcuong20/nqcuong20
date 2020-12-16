@@ -65,8 +65,8 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-bootstrap.svg" alt="Bootstrap" height="70" />
 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="70" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Javascript" height="70" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Javascript" height="70" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Adobe Photoshop" height="70" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-illustrator.svg" alt="Adobe Illustrator" height="70" />
 </div></td><td valign="top" width="33%">
 
 ### Backend  
