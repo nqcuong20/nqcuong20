@@ -55,8 +55,7 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 **Learning:**
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-angularjs.svg" alt="React" height="70" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="React" height="70" /> 
-
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="70" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="70" />
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -90,15 +89,3 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 </div></td></tr></table>  
 
 <br/>  
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"></code>
-<code><img height="20" src="http://3con14.biz/code/_data/js/intro/js-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
