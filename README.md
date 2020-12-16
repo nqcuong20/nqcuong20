@@ -1,11 +1,8 @@
 <h1 align="center"> Hi there, I'm Cuong_Nguyen - nqcuong20 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><h1>
   
 ## Hi, I'm a Web Developer from VietNam!
-
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/octo.gif"  height="320" />
-  
 **Talking about Personal Stuffs:**
-
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning .NET, Javascript, Angular; 
 - 💬 Ask me about anything, I am happy to help;
@@ -13,8 +10,7 @@
 ### Music 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-
-## My Skill Set  
+## My Skill Set 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
