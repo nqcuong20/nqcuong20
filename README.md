@@ -12,8 +12,7 @@
 
 
 <br />
-<code> <a href="https://www.facebook.com/nqcuong20/"> <img height="20" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"></a></code>
-<code> <a href="https://www.instagram.com/mystogancn/"> <img height="20" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"></a </code>
+
 
 ### I'm a Web Developer !
 <a href="https://discord.gg/XTW52Kt">
